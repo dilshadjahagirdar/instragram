@@ -25,6 +25,8 @@ gem 'haml'
 gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'devise'
+gem 'paperclip'
+gem 'pry-byebug'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
